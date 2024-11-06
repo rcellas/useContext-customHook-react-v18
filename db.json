@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "Atum....",
+            "description": "parafo......",
+            "price": 15,
+            "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+            "id": "2",
+            "title": "Chocolate....",
+            "description": "parafo......",
+            "price": 30,
+            "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+            "id": "3",
+            "title": "Leche....",
+            "description": "parafo......",
+            "price": 30,
+            "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+            "id": "4",
+            "title": "Lejia....",
+            "description": "parafo......",
+            "price": 30,
+            "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+            "id": "b1bb",
+            "title": "fresa",
+            "description": "fresa",
+            "price": "2",
+            "imageUrl": "https://picsum.photos/200/300"
+        },
+        {
+            "id": "0421",
+            "title": "uva",
+            "description": "uva",
+            "price": "2",
+            "imageUrl": "https://picsum.photos/200/300"
+        }
+    ]
+}
